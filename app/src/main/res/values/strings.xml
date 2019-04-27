@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MeuApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nossaequipe">Nossa Equipe</string>
+    <string name="map">Mapa</string>
+    <string name="sobre">Sobre</string>
+    <string name="phone">Telefone</string>
+    <string name="web">Web</string>
+    <string name="textoEquipe">Trabalhar em equipe é saber ser parte de um todo. É como ser uma parte fundamental de um corpo, mas sabendo que sem corpo essa parte de nada serve. Ter a capacidade de trabalhar bem em equipe mostra humildade, tolerância, inteligência emocional e companheirismo</string>
+    <string name="Voltar">voltar</string>
+    <string name="textoSobre">floriculturas vendem diversos tipos de flores, de corte, quando são comercializadas sem raízes e em vaso, quando possuem recipiente com substrato.</string>
+    <string name="logo">logo da empresa</string>
+    <string name="title_activity_mapa">Map</string>
+</resources>
